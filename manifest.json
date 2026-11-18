@@ -1,0 +1,21 @@
+{
+  "version": "0.1.0",
+  "notes": "First release",
+  "files": [
+    {
+      "name": "penguin_core.py",
+      "url": "https://raw.githubusercontent.com/MRtrytytka/penguin-launcher/main/penguin_core.py",
+      "sha256": "799c465cbcc587c4e2ca6a2550fd8c896f8fd23b85fe13ab5f14f6a9c106e385"
+    },
+    {
+      "name": "penguin_launcher_qt_new.py",
+      "url": "https://raw.githubusercontent.com/MRtrytytka/penguin-launcher/main/penguin_launcher_qt_new.py",
+      "sha256": "425a19c91ca7f8ecad4f7baf9fb79bf877415bfb3e002a9f910b8ce79a541ba0"
+    },
+    {
+      "name": "penguin_updater.py",
+      "url": "https://raw.githubusercontent.com/MRtrytytka/penguin-launcher/main/penguin_updater.py",
+      "sha256": "f57d83bb721adf05019c9ffbfb24d89ca6aa98429885412bef4cd7b0594f9411"
+    }
+  ]
+}

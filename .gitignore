@@ -1,0 +1,4 @@
+__pycache__/
+.backup/
+*.log
+*.new
