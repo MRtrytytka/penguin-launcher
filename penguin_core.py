@@ -34,7 +34,7 @@ from pathlib import Path
 
 
 APP_NAME = "Penguin Launcher"
-APP_VERSION = "0.1.0"
+APP_VERSION = "0.1.1"
 # Modrinth asks API clients to send a descriptive, unique User-Agent. Change this to your own.
 USER_AGENT = f"penguin-launcher/{APP_VERSION} (personal-project)"
 
